@@ -1,7 +1,7 @@
 from flask import Flask
-from App import create_app
-from App import create_app, db
-from user_routes import user_bp  
+from routes import create_app
+from routes import create_app, db
+from routes.user_routes import user_bp  
 
 app = create_app()
 

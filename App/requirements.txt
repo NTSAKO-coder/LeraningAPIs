@@ -1,3 +1,0 @@
-Flask #Web framework to build the API
-Flask_sqlalchemy # ORM for handling the PostgreSQL database
-Psycopg2-binary # PostgreSQL database driver
